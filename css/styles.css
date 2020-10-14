@@ -1,0 +1,17 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+h1, h2 {
+  color: yellow;
+}
+
+.best {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: royalblue;
+}
+
+img {
+  text-align: center;
+}
